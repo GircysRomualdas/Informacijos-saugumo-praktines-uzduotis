@@ -1,0 +1,10 @@
+C:\Users\Rudis\Desktop\PD2\PD2\bin\Debug\PD2.exe.config
+C:\Users\Rudis\Desktop\PD2\PD2\bin\Debug\PD2.exe
+C:\Users\Rudis\Desktop\PD2\PD2\bin\Debug\PD2.pdb
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.csproj.AssemblyReference.cache
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.Form1.resources
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.Properties.Resources.resources
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.csproj.GenerateResource.cache
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.csproj.CoreCompileInputs.cache
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.exe
+C:\Users\Rudis\Desktop\PD2\PD2\obj\Debug\PD2.pdb
