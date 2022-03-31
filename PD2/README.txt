@@ -2,7 +2,7 @@
 
 Sukurti šifravimo/dešifravimo sistemą. Sistemoje turi būti:
 
-	      Pradinio teksto įvesties laukas, kuriame įvedamas šifruojamas/dešifruojamas tekstas. (2 taškai)
+	Pradinio teksto įvesties laukas, kuriame įvedamas šifruojamas/dešifruojamas tekstas. (2 taškai)
         Slaptojo rakto įvesties laukas. (2 taškai)
         Funkcijos šifravimas/dešifravimas pasirinkimas. (4 taškai)
         Užšifruoto teksto atsakymo laukas, kuriame pateikiamas užšifruotas/dešifruotas tekstas. (2 taškai)
