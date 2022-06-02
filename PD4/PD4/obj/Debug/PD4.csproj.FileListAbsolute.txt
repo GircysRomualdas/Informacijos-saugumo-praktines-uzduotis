@@ -1,0 +1,13 @@
+C:\Users\Rudis\Desktop\PD4\PD4\bin\Debug\PD4.exe.config
+C:\Users\Rudis\Desktop\PD4\PD4\bin\Debug\PD4.exe
+C:\Users\Rudis\Desktop\PD4\PD4\bin\Debug\PD4.pdb
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.csproj.AssemblyReference.cache
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.Properties.Resources.resources
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.csproj.GenerateResource.cache
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.csproj.CoreCompileInputs.cache
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.exe
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.pdb
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.Form1.resources
+C:\Users\Rudis\Desktop\PD4\PD4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rudis\Desktop\PD4\PD4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rudis\Desktop\PD4\PD4\obj\Debug\PD4.csproj.CopyComplete
